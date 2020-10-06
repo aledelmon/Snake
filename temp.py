@@ -30,6 +30,7 @@ pygame.display.update()
 clock = pygame.time.Clock()
 font = pygame.font.SysFont(None, 55)
 
+#Main Menu
 def game_intro():
 
     intro = True
